@@ -3,7 +3,7 @@ En este repositorio hay 5 ejercicios, donde el objetivo final es practicar y cre
 los archivos están divididos y nombreados así:
 
 ## 1.INDEX
-Abre la página con HOla mundo.
+Abre la página con Hola mundo.
 
 ## 2.BIOGRAFIA CORTA.
 Abre página con información personal en texto.
