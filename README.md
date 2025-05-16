@@ -1,4 +1,4 @@
-# PRACTICA GUIADA.
+### PRACTICA GUIADA.
 En este repositorio hay 5 ejercicios, donde el objetivo final es practicar y crear las primeras paginas web.
 los archivos están divididos y nombreados así:
 
