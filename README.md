@@ -1,24 +1,31 @@
-# PRACTICA GUIADA.
-En este repositorio hay 5 ejercicios, donde el objetivo final es practicar y crear las primeras paginas web.
-los archivos están divididos y nombrados así:
+# Ejercicios de práctica en HTML.
+Este repositorio contiene una serie de ejercicios de práctica para mejorar tus habilidades en visual
+y HTML. Cada ejercicio nos ayuda a entender desde la práctica mejor el programa y conceptos básicos de
+HTML.
 
-#### 1.INDEX
-Abre la página con Hola mundo.
+#### CONTENIDO
+-Ejercicios de HTML:
+-Estructura basica de HTML
+-etiquetas y atributos
+-enlaces e imagenes
+-formularios
+-uso de colores
 
-#### 2.BIOGRAFIA CORTA.
-Abre página con información personal en texto.
+##Objetivos
+-Conocer conceptos básicos de HTML
+-Aprender a crear estructuras básicas
+-Entender como funcionan los enlaces y las imagenes en HTML
+-Mejorar habilidades en diseño visual
 
-#### 3.GALERÍA
-Abre página con texto e imágenes.
+##Tecnologías utilizadas.
+-HTML5
+-Visual code
 
-#### 4.PÁGINA DE ENLACES.
-Abre página con enlaces para  visitar.
+##como utilizar este repositorio.
+- clona el repositorio en tu maquina local
+- explora los ejercicios y completa los que desees cambiar.
+  
 
-#### 5.RECETA.
-Abre pagína con imagen y receta
-
-### APLICACIÓN USADA.
-html y visual code.
 _________________________________________________________________________________________________________________
 
 
