@@ -4,22 +4,22 @@ y HTML. Cada ejercicio nos ayuda a entender desde la práctica mejor el programa
 HTML.
 
 #### CONTENIDO
--Ejercicios de HTML:
--Estructura basica de HTML
--etiquetas y atributos
--enlaces e imagenes
--formularios
--uso de colores
+- Ejercicios de HTML:
+- Estructura basica de HTML
+- Etiquetas y atributos
+- Enlaces e imagenes
+- Formularios
+- Uso de colores
 
 ## Objetivos
--Conocer conceptos básicos de HTML
--Aprender a crear estructuras básicas
--Entender como funcionan los enlaces y las imagenes en HTML
--Mejorar habilidades en diseño visual
+- Conocer conceptos básicos de HTML
+- Aprender a crear estructuras básicas
+- Entender como funcionan los enlaces y las imagenes en HTML
+- Mejorar habilidades en diseño visual
 
 ## Tecnologías utilizadas.
--HTML5
--Visual code
+- HTML5
+- Visual code
 
 ## Como utilizar este repositorio.
 - clona el repositorio en tu maquina local
